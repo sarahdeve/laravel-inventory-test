@@ -21,7 +21,7 @@
 
     <h3>Products</h3>
 
-    <!-- SCROLL CONTAINER FIXED -->
+    {{-- SCROLL CONTAINER FIXED  --}}
     <div style="max-height: 300px; overflow-y: auto;">
 
         <table class="table table-bordered">
