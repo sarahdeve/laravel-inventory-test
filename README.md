@@ -32,4 +32,4 @@ Data is stored in a JSON file instead of a database.
 
 ### 1. Clone repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sarahdeve/laravel-inventory-test.git
